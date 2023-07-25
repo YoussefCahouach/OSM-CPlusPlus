@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "cTLF3Nuot9gvvBmbhXYqNiL6EuOwRITCVs11EG83JXkP4PJsd+vXmQg8dWzZBps9v3lbjpOjqkGCW0ReNxrRrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Youssef\\Desktop\\2n Universidad\\1r Semestre\\LP\\Pràctiques\\estudiants\\LP-OSM-WPF\\LP-OSM-WPF.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Youssef\\.nuget\\packages\\microsoft.netcore.platforms\\3.0.0\\microsoft.netcore.platforms.3.0.0.nupkg.sha512",
+    "C:\\Users\\Youssef\\.nuget\\packages\\microsoft.toolkit.ui.xamlhost\\6.1.2\\microsoft.toolkit.ui.xamlhost.6.1.2.nupkg.sha512",
+    "C:\\Users\\Youssef\\.nuget\\packages\\microsoft.toolkit.win32.ui.sdk\\6.1.2\\microsoft.toolkit.win32.ui.sdk.6.1.2.nupkg.sha512",
+    "C:\\Users\\Youssef\\.nuget\\packages\\microsoft.toolkit.win32.ui.xamlapplication\\6.1.2\\microsoft.toolkit.win32.ui.xamlapplication.6.1.2.nupkg.sha512",
+    "C:\\Users\\Youssef\\.nuget\\packages\\microsoft.toolkit.wpf.ui.controls\\6.1.2\\microsoft.toolkit.wpf.ui.controls.6.1.2.nupkg.sha512",
+    "C:\\Users\\Youssef\\.nuget\\packages\\microsoft.toolkit.wpf.ui.xamlhost\\6.1.2\\microsoft.toolkit.wpf.ui.xamlhost.6.1.2.nupkg.sha512",
+    "C:\\Users\\Youssef\\.nuget\\packages\\microsoft.vcrtforwarders.140\\1.0.6\\microsoft.vcrtforwarders.140.1.0.6.nupkg.sha512",
+    "C:\\Users\\Youssef\\.nuget\\packages\\microsoft.windows.sdk.contracts\\10.0.19041.1\\microsoft.windows.sdk.contracts.10.0.19041.1.nupkg.sha512",
+    "C:\\Users\\Youssef\\.nuget\\packages\\system.runtime.windowsruntime\\4.6.0\\system.runtime.windowsruntime.4.6.0.nupkg.sha512",
+    "C:\\Users\\Youssef\\.nuget\\packages\\system.runtime.windowsruntime.ui.xaml\\4.6.0\\system.runtime.windowsruntime.ui.xaml.4.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,266 @@
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\xerces-c_3_2D.dll
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\LP-OSM-WPF.exe
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\LP-OSM-WPF.deps.json
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\LP-OSM-WPF.runtimeconfig.json
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\LP-OSM-WPF.runtimeconfig.dev.json
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\LP-OSM-WPF.dll
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\LP-OSM-WPF.pdb
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Win32.UI.XamlHost.xml
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Win32.UI.XamlHost.Managed.dll
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Wpf.UI.Controls.dll
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Wpf.UI.XamlHost.dll
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm\native\Microsoft.Toolkit.Win32.UI.XamlHost.dll
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm\native\Microsoft.Toolkit.Win32.UI.XamlHost.pri
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\Microsoft.Toolkit.Win32.UI.XamlHost.dll
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\Microsoft.Toolkit.Win32.UI.XamlHost.pri
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\Microsoft.Toolkit.Win32.UI.XamlHost.dll
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\Microsoft.Toolkit.Win32.UI.XamlHost.pri
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\Microsoft.Toolkit.Win32.UI.XamlHost.dll
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\Microsoft.Toolkit.Win32.UI.XamlHost.pri
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\concrt140d_app.dll
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\msvcp140_1d_app.dll
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\msvcp140_2d_app.dll
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\msvcp140d_app.dll
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\vcamp140d_app.dll
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\vccorlib140d_app.dll
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\vcomp140d_app.dll
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\vcruntime140d_app.dll
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\concrt140_app.dll
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\msvcp140_1_app.dll
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\msvcp140_2_app.dll
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\msvcp140_app.dll
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\vcamp140_app.dll
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\vccorlib140_app.dll
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\vcomp140_app.dll
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\vcruntime140_app.dll
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\concrt140d_app.dll
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\msvcp140_1d_app.dll
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\msvcp140_2d_app.dll
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\msvcp140d_app.dll
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vcamp140d_app.dll
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vccorlib140d_app.dll
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vcomp140d_app.dll
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vcruntime140_1d_app.dll
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vcruntime140d_app.dll
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\concrt140_app.dll
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\msvcp140_1_app.dll
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\msvcp140_2_app.dll
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\msvcp140_app.dll
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vcamp140_app.dll
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vccorlib140_app.dll
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vcomp140_app.dll
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vcruntime140_1_app.dll
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vcruntime140_app.dll
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\concrt140d_app.dll
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\msvcp140_1d_app.dll
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\msvcp140_2d_app.dll
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\msvcp140d_app.dll
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\vcamp140d_app.dll
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\vccorlib140d_app.dll
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\vcomp140d_app.dll
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\vcruntime140d_app.dll
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\concrt140_app.dll
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\msvcp140_1_app.dll
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\msvcp140_2_app.dll
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\msvcp140_app.dll
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\vcamp140_app.dll
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\vccorlib140_app.dll
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\vcomp140_app.dll
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\vcruntime140_app.dll
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Win32.UI.XamlHost.winmd
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\obj\Debug\netcoreapp3.1\LP-OSM-WPF.csproj.AssemblyReference.cache
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\obj\Debug\netcoreapp3.1\LP-OSM-WPF_Content.g.cs
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\obj\Debug\netcoreapp3.1\LP-OSM-WPF_MarkupCompile.cache
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\obj\Debug\netcoreapp3.1\LP-OSM-WPF_MarkupCompile.lref
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\obj\Debug\netcoreapp3.1\LP-OSM-WPF.g.resources
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\obj\Debug\netcoreapp3.1\LP-OSM-WPF.csproj.GenerateResource.cache
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\obj\Debug\netcoreapp3.1\LP-OSM-WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\obj\Debug\netcoreapp3.1\LP-OSM-WPF.AssemblyInfoInputs.cache
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\obj\Debug\netcoreapp3.1\LP-OSM-WPF.AssemblyInfo.cs
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\obj\Debug\netcoreapp3.1\LP-OSM-WPF.csproj.CoreCompileInputs.cache
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\obj\Debug\netcoreapp3.1\LP-OSM-WPF.dll
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\obj\Debug\netcoreapp3.1\LP-OSM-WPF.pdb
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\obj\Debug\netcoreapp3.1\LP-OSM-WPF.genruntimeconfig.cache
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\LP-OSM-DLL.dll
+C:\Users\MARCEL\Desktop\SEGONA_PART\codiEstudiantsPart2\estudiants\LP-OSM-WPF\obj\Debug\netcoreapp3.1\LP_OSM_WPF.Properties.Resources.resources
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\xerces-c_3_2D.dll
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\LP-OSM-WPF.exe
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\LP-OSM-WPF.deps.json
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\LP-OSM-WPF.runtimeconfig.json
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\LP-OSM-WPF.runtimeconfig.dev.json
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\LP-OSM-WPF.dll
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\LP-OSM-WPF.pdb
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Win32.UI.XamlHost.xml
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Win32.UI.XamlHost.Managed.dll
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Wpf.UI.Controls.dll
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Wpf.UI.XamlHost.dll
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm\native\Microsoft.Toolkit.Win32.UI.XamlHost.dll
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm\native\Microsoft.Toolkit.Win32.UI.XamlHost.pri
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\Microsoft.Toolkit.Win32.UI.XamlHost.dll
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\Microsoft.Toolkit.Win32.UI.XamlHost.pri
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\Microsoft.Toolkit.Win32.UI.XamlHost.dll
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\Microsoft.Toolkit.Win32.UI.XamlHost.pri
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\Microsoft.Toolkit.Win32.UI.XamlHost.dll
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\Microsoft.Toolkit.Win32.UI.XamlHost.pri
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\concrt140d_app.dll
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\msvcp140_1d_app.dll
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\msvcp140_2d_app.dll
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\msvcp140d_app.dll
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\vcamp140d_app.dll
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\vccorlib140d_app.dll
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\vcomp140d_app.dll
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\vcruntime140d_app.dll
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\concrt140_app.dll
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\msvcp140_1_app.dll
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\msvcp140_2_app.dll
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\msvcp140_app.dll
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\vcamp140_app.dll
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\vccorlib140_app.dll
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\vcomp140_app.dll
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\vcruntime140_app.dll
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\concrt140d_app.dll
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\msvcp140_1d_app.dll
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\msvcp140_2d_app.dll
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\msvcp140d_app.dll
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vcamp140d_app.dll
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vccorlib140d_app.dll
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vcomp140d_app.dll
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vcruntime140_1d_app.dll
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vcruntime140d_app.dll
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\concrt140_app.dll
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\msvcp140_1_app.dll
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\msvcp140_2_app.dll
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\msvcp140_app.dll
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vcamp140_app.dll
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vccorlib140_app.dll
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vcomp140_app.dll
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vcruntime140_1_app.dll
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vcruntime140_app.dll
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\concrt140d_app.dll
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\msvcp140_1d_app.dll
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\msvcp140_2d_app.dll
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\msvcp140d_app.dll
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\vcamp140d_app.dll
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\vccorlib140d_app.dll
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\vcomp140d_app.dll
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\vcruntime140d_app.dll
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\concrt140_app.dll
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\msvcp140_1_app.dll
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\msvcp140_2_app.dll
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\msvcp140_app.dll
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\vcamp140_app.dll
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\vccorlib140_app.dll
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\vcomp140_app.dll
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\vcruntime140_app.dll
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Win32.UI.XamlHost.winmd
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\obj\Debug\netcoreapp3.1\LP-OSM-WPF_Content.g.cs
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\obj\Debug\netcoreapp3.1\LP-OSM-WPF_MarkupCompile.cache
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\obj\Debug\netcoreapp3.1\LP-OSM-WPF_MarkupCompile.lref
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\obj\Debug\netcoreapp3.1\LP-OSM-WPF.g.resources
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\obj\Debug\netcoreapp3.1\LP_OSM_WPF.Properties.Resources.resources
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\obj\Debug\netcoreapp3.1\LP-OSM-WPF.csproj.GenerateResource.cache
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\obj\Debug\netcoreapp3.1\LP-OSM-WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\obj\Debug\netcoreapp3.1\LP-OSM-WPF.AssemblyInfoInputs.cache
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\obj\Debug\netcoreapp3.1\LP-OSM-WPF.AssemblyInfo.cs
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\obj\Debug\netcoreapp3.1\LP-OSM-WPF.csproj.CoreCompileInputs.cache
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\obj\Debug\netcoreapp3.1\LP-OSM-WPF.csproj.CopyComplete
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\obj\Debug\netcoreapp3.1\LP-OSM-WPF.dll
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\obj\Debug\netcoreapp3.1\LP-OSM-WPF.pdb
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\obj\Debug\netcoreapp3.1\LP-OSM-WPF.genruntimeconfig.cache
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\LP-OSM-DLL.dll
+C:\Users\Youssef\Desktop\estudiants\LP-OSM-WPF\obj\Debug\netcoreapp3.1\LP-OSM-WPF.csproj.AssemblyReference.cache
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\xerces-c_3_2D.dll
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\LP-OSM-DLL.dll
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\LP-OSM-WPF.exe
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\LP-OSM-WPF.deps.json
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\LP-OSM-WPF.runtimeconfig.json
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\LP-OSM-WPF.runtimeconfig.dev.json
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\LP-OSM-WPF.dll
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\LP-OSM-WPF.pdb
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Win32.UI.XamlHost.xml
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Win32.UI.XamlHost.Managed.dll
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Wpf.UI.Controls.dll
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Wpf.UI.XamlHost.dll
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm\native\Microsoft.Toolkit.Win32.UI.XamlHost.dll
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm\native\Microsoft.Toolkit.Win32.UI.XamlHost.pri
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\Microsoft.Toolkit.Win32.UI.XamlHost.dll
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\Microsoft.Toolkit.Win32.UI.XamlHost.pri
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\Microsoft.Toolkit.Win32.UI.XamlHost.dll
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\Microsoft.Toolkit.Win32.UI.XamlHost.pri
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\Microsoft.Toolkit.Win32.UI.XamlHost.dll
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\Microsoft.Toolkit.Win32.UI.XamlHost.pri
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\concrt140d_app.dll
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\msvcp140_1d_app.dll
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\msvcp140_2d_app.dll
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\msvcp140d_app.dll
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\vcamp140d_app.dll
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\vccorlib140d_app.dll
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\vcomp140d_app.dll
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\debug\vcruntime140d_app.dll
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\concrt140_app.dll
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\msvcp140_1_app.dll
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\msvcp140_2_app.dll
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\msvcp140_app.dll
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\vcamp140_app.dll
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\vccorlib140_app.dll
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\vcomp140_app.dll
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-arm64\native\release\vcruntime140_app.dll
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\concrt140d_app.dll
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\msvcp140_1d_app.dll
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\msvcp140_2d_app.dll
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\msvcp140d_app.dll
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vcamp140d_app.dll
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vccorlib140d_app.dll
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vcomp140d_app.dll
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vcruntime140_1d_app.dll
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\debug\vcruntime140d_app.dll
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\concrt140_app.dll
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\msvcp140_1_app.dll
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\msvcp140_2_app.dll
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\msvcp140_app.dll
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vcamp140_app.dll
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vccorlib140_app.dll
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vcomp140_app.dll
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vcruntime140_1_app.dll
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x64\native\release\vcruntime140_app.dll
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\concrt140d_app.dll
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\msvcp140_1d_app.dll
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\msvcp140_2d_app.dll
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\msvcp140d_app.dll
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\vcamp140d_app.dll
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\vccorlib140d_app.dll
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\vcomp140d_app.dll
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\debug\vcruntime140d_app.dll
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\concrt140_app.dll
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\msvcp140_1_app.dll
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\msvcp140_2_app.dll
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\msvcp140_app.dll
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\vcamp140_app.dll
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\vccorlib140_app.dll
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\vcomp140_app.dll
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\runtimes\win10-x86\native\release\vcruntime140_app.dll
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\bin\Debug\netcoreapp3.1\Microsoft.Toolkit.Win32.UI.XamlHost.winmd
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\obj\Debug\netcoreapp3.1\LP-OSM-WPF.csproj.AssemblyReference.cache
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\obj\Debug\netcoreapp3.1\LP-OSM-WPF_Content.g.cs
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\obj\Debug\netcoreapp3.1\LP-OSM-WPF_MarkupCompile.cache
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\obj\Debug\netcoreapp3.1\LP-OSM-WPF_MarkupCompile.lref
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\obj\Debug\netcoreapp3.1\LP-OSM-WPF.g.resources
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\obj\Debug\netcoreapp3.1\LP_OSM_WPF.Properties.Resources.resources
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\obj\Debug\netcoreapp3.1\LP-OSM-WPF.csproj.GenerateResource.cache
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\obj\Debug\netcoreapp3.1\LP-OSM-WPF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\obj\Debug\netcoreapp3.1\LP-OSM-WPF.AssemblyInfoInputs.cache
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\obj\Debug\netcoreapp3.1\LP-OSM-WPF.AssemblyInfo.cs
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\obj\Debug\netcoreapp3.1\LP-OSM-WPF.csproj.CoreCompileInputs.cache
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\obj\Debug\netcoreapp3.1\LP-OSM-WPF.csproj.CopyComplete
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\obj\Debug\netcoreapp3.1\LP-OSM-WPF.dll
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\obj\Debug\netcoreapp3.1\LP-OSM-WPF.pdb
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-WPF\obj\Debug\netcoreapp3.1\LP-OSM-WPF.genruntimeconfig.cache
