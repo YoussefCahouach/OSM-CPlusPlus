@@ -1,0 +1,22 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: El directorio intermedio (x64\Debug\) contiene archivos compartidos de otro proyecto (LP-OSM-2122-DLL.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  pch.cpp
+  BallTree.cpp
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-DLL\BallTree.cpp(29,14): warning C4244: 'inicializando': conversión de '__int64' a 'int'; posible pérdida de datos
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-DLL\BallTree.cpp(41,14): warning C4244: 'inicializando': conversión de '__int64' a 'int'; posible pérdida de datos
+  CamiSolucio.cpp
+  DLL-Bridge.cpp
+  dllmain.cpp
+  GrafSolucio.cpp
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-DLL\GrafSolucio.cpp(47,29): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+  MapaRender.cpp
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-DLL\MapaRender.cpp(38,57): warning C4267: '=': conversión de 'size_t' a 'int'; posible pérdida de datos
+  MapaSolucio.cpp
+C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\LP-OSM-DLL\MapaSolucio.cpp(160,30): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  PuntDeInteresBase.cpp
+  PuntDeInteresBotigaSolucio.cpp
+  PuntDeInteresRestaurantSolucio.cpp
+  Util.cpp
+  XML4OSMUtil.cpp
+  Generando código...
+     Creando biblioteca C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\x64\Debug\LP-OSM-DLL.lib y objeto C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\x64\Debug\LP-OSM-DLL.exp
+  LP-OSM-DLL.vcxproj -> C:\Users\Youssef\Desktop\2n Universidad\1r Semestre\LP\Pràctiques\estudiants\x64\Debug\LP-OSM-DLL.dll
